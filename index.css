@@ -1,0 +1,15 @@
+.nini{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+   font-size: 2rem;
+   border: #f64c4c 2px solid;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+.saw{
+   color: #640505;
+}
+
+p{
+   color: rgb(250, 6, 14);
+}
